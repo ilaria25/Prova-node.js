@@ -1,0 +1,32 @@
+[
+  {
+    "albums": [
+      {
+        "id": 1,
+        "name": "Jjk pics",
+        "photos": [],
+        "created": "01-03-2024",
+        "edited": "24-03-2024",
+        "hashtags": "#jjkPics"
+      }
+    ]
+  },
+  {
+    "photos": [
+      {
+        "id": 1,
+        "name": "Gojo Satoru",
+        "created": "10-03-2024",
+        "edited": "24-03-2024",
+        "hashtags": "#mostpowerfulsorcerer"
+      },
+      {
+        "id": 2,
+        "name": "Toji Fushiguro",
+        "created": "10-03-2024",
+        "edited": "24-03-2024",
+        "hashtags": "#superhuman"
+      }
+    ]
+  }
+]
